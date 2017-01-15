@@ -1,5 +1,5 @@
 ## Getting-and-Cleaning-data-project
-### This repo contains four files: README.md, CodeBook.md, run_analysis.R and MeanData.txt.
+This repo contains four files: README.md, CodeBook.md, run_analysis.R and MeanData.txt.
 
 ## Files description
 * README.md describes each file contained in the repo.
